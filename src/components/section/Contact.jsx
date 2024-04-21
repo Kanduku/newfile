@@ -105,9 +105,10 @@ const ContactButton = styled.input`
   font-weight: 600;
 `;
 
-const Contact = () => {
-  const form = useRef();
 
+const Contact = () => {
+
+  const form = useRef();
   const handelSubmit = (e) => {
     e.preventDefault();
     emailjs

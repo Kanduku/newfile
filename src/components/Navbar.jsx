@@ -2,7 +2,7 @@ import React from 'react';
 import styled  from "styled-components";
 import {Link } from "react-router-dom";
 import'./../index.css';
-import { Bio } from '../data/constants';
+
 import { useState } from 'react';
 
 import MenuIcon from '@mui/icons-material/Menu';
