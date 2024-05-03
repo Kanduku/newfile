@@ -123,7 +123,7 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
        
-        <NavLogo to="/" >Nagendra portfoloio</NavLogo>
+        <NavLogo to="/" >Nagendra portfolio</NavLogo>
 
 <MobileIcon onClick={() => setIsOpen(!isOpen)}>
   <MenuIcon  style={{color:"inherit"}}/>
